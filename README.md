@@ -16,7 +16,7 @@ Performed joins and aggregations to calculate ride counts, revenue metrics, and 
 - SELECT, WHERE
 - GROUP BY, HAVING
 - Aggregate functions
-- INNER and LEFT JOIN
+- INNER JOIN
 - Subqueries
 
 These projects helped strengthen my understanding of relational databases and practical SQL analysis.
